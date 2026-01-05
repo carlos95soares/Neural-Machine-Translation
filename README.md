@@ -145,6 +145,13 @@ Esses exemplos reforçam o caráter **especialista** do modelo: bom desempenho n
   - avaliação com BLEU e METEOR
   - inferência com Greedy Decoding e Beam Search
 
+- `requirements.txt`  
+  Arquivo txt contendo:
+  - bibliotecas Core
+  - blbiotecas NLP
+  - biblitecas Deep Learning
+  - biblitecas Utilidades
+    
 ---
 
 ## Conclusões
